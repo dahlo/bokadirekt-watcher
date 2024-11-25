@@ -1,8 +1,8 @@
-url: "https://www.example.com/barber-booking"
+url: "https://www.bokadirekt.se/boka-tjanst/myprovider-38803/myservice-1363139" # url to the calendar view where you see available time slots for a service
 email:
-  sender: "your_email@example.com"
-  receiver: "receiver_email@example.com"
-  password: "your_password"
-  smtp_host: "smtp.example.com"
-  smtp_port: 587
+  sender: "your_email@example.com" 	 # the email the mails should claim to be sent from
+  receiver: "receiver_email@example.com" # the email the mails should be sent to. Comma-separated if multiple emails
+  password: "your_password" 		 # password for the smtp server
+  smtp_host: "smtp.example.com" 	 # url of the smtp server
+  smtp_port: 587 			 # port of the smtp server
 
