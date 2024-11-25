@@ -1,0 +1,8 @@
+url: "https://www.example.com/barber-booking"
+email:
+  sender: "your_email@example.com"
+  receiver: "receiver_email@example.com"
+  password: "your_password"
+  smtp_host: "smtp.example.com"
+  smtp_port: 587
+

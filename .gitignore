@@ -1,0 +1,5 @@
+venv/
+geckodriver-*
+config.yaml
+*.sw*
+seen_slots.yaml
